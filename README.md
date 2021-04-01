@@ -21,7 +21,7 @@ $('.header__card-whatsapp-item:first-child').prepend('<a href="https://api.whats
 
 $('.header__card-whatsapp-item:nth-child(2)').prepend('<a href="https://api.whatsapp.com/send?phone=5511111111111" class="header-mobile__whatsapp-link" data-name="Serviços" data-number="+55 (11) 11111-1111" data-product="Menu de Whatsapp" data-channel="Site" target="blank_" <strong>Serviços: </strong><span class="header-mobile__whatsapp-number text-mask-phone">+55 (11) 11111-1111</span></a>');
 
-$('.header__card-whatsapp-item:nth-child(3)').prepend('<a href="https://api.whatsapp.com/send?phone=5511973860742&text=Ol%C3%A1,%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20este%20ve%C3%ADculo." class="header-mobile__whatsapp-link" data-name="Central de Vendas" data-number="+55 (11) 97386-0742" data-product="Menu de Whatsapp" data-channel="Site" target="blank_" <strong>Central de Vendas: </strong><span class="header-mobile__whatsapp-number text-mask-phone">+55 (11) 97386-0742</span></a>');`>
+$('.header__card-whatsapp-item:nth-child(3)').prepend('<a href="https://api.whatsapp.com/send?phone=5511973860742&text=Ol%C3%A1,%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20este%20ve%C3%ADculo." class="header-mobile__whatsapp-link" data-name="Central de Vendas" data-number="+55 (11) 97386-0742" data-product="Menu de Whatsapp" data-channel="Site" target="blank_" <strong>Central de Vendas: </strong><span class="header-mobile__whatsapp-number text-mask-phone">+55 (11) 97386-0742</span></a>');>`
 
 > **VanillaJS:** `var item = document.getElementById("wpp-content-0").firstElementChild;
 var newItemElements = document.createElement("ul");
