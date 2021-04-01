@@ -6,7 +6,7 @@ Desafio do processo seletivo para vaga de Suporte Front-end Júnior da empresa A
 
 1. Adicione um ícone para Youtube no header apontando para https://www.youtube.com/channel/UCLI4tg1oh_oLiJJteExJdUQ
 
-> **Jquery:** $('.header__networks-list').append('<a href="https://www.youtube.com/channel/UCLI4tg1oh_oLiJJteExJdUQ" target="_blank"><i class="icon icon-youtube-header icon--small icon--hover-youtube"></i></a>');
+> **Jquery:** `$('.header__networks-list').append('<a href="https://www.youtube.com/channel/UCLI4tg1oh_oLiJJteExJdUQ" target="_blank"><i class="icon icon-youtube-header icon--small icon--hover-youtube"></i></a>');`
 
 > **VanillaJS:** var element = document.createElement("a");
 element.innerHTML = `<a href="https://www.youtube.com/channel/UCLI4tg1oh_oLiJJteExJdUQ" target="_blank"><i class="icon icon-youtube-header icon--small icon--hover-youtube"></i></a>`
