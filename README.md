@@ -1,6 +1,6 @@
 # Desafio Suporte Front-end Júnior
 
-- Repositório do desafio da autoforce.
+- Repositório do desafio da empresa AutoForce.
 
 
 ![Layout](https://s4.gifyu.com/images/parte2app.gif)
