@@ -1,4 +1,4 @@
-# Projeto atualizado 1.1 
+# Projeto atualizado 2.0 
 
 - Adicionado ScrollView
 - Adicionado responsividade nas fontes e em algumas div's.
