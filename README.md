@@ -4,7 +4,7 @@
 - Este projeto utiliza o EXPO
 - Link do projeto 1.0 no EXPO: **https://expo.io/@allandxsh/projects/autoforceapp**
 
-
+- Link do projeto 2.0 no EXPO: **https://expo.io/@allandxsh/projects/autoforceappnew**
 
 
 
