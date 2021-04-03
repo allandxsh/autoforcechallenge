@@ -42,8 +42,10 @@ function index() {
           <ActivityText>Seminovos</ActivityText>
           <ActivityLine />
           <ConsorcioContainer>
-          <ActivityText>Consórcio</ActivityText>
-          <NewStyle><NewText>Novo</NewText></NewStyle>
+            <ActivityText>Consórcio</ActivityText>
+            <NewStyle>
+              <NewText>Novo</NewText>
+            </NewStyle>
           </ConsorcioContainer>
           <ActivityLine />
           <ActivityText>Vendas Direta</ActivityText>
@@ -51,7 +53,6 @@ function index() {
           <ActivityText>Lifestyle</ActivityText>
           <ActivityLine />
           <ActivityText>Pós-vendas</ActivityText>
-         
         </ActivityContainer>
       </Container>
     </Wrapper>

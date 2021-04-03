@@ -13,20 +13,23 @@ import {
   ImgWhats,
   ButtonWhatsapp,
   ImgFiat,
+  Container
 } from "./styles";
 
-import Menu from '../../components/Menu';
-import Footer from '../../components/Footer';
+import Menu from "../../components/Menu";
+import Footer from "../../components/Footer";
 
 import logoDealer from "../../../assets/imgLogo.png";
 import menuIcon from "../../../assets/menuIcon.png";
 import telefone from "../../../assets/telefone.png";
-import whatsLogo from "../../../assets/whatsLogo.png";
+import whats2 from "../../../assets/whats2.png";
 import fiatLogo from "../../../assets/fiatLogo.png";
 
 function index() {
   return (
+    
     <Wrapper>
+      <Container>
       <HeaderContainer>
         <Header>
           <ImgMenuIcon source={menuIcon} />
@@ -38,7 +41,7 @@ function index() {
 
           <ContactView2>
             <ButtonWhatsapp></ButtonWhatsapp>
-            <ImgWhats source={whatsLogo} />
+            <ImgWhats source={whats2} />
           </ContactView2>
 
           <ImgFiat source={fiatLogo} />
@@ -46,7 +49,9 @@ function index() {
       </HeaderContainer>
       <Menu />
       <Footer />
+      </Container >
     </Wrapper>
+    
   );
 }
 
